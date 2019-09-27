@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business\bin\Release\TaskManager.Business.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business\bin\Release\TaskManager.Business.pdb
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business\bin\Release\TaskManager.Entities.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business\bin\Release\TaskManager.Repositories.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business\bin\Release\EntityFramework.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business\bin\Release\TaskManager.Entities.pdb
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business\bin\Release\TaskManager.Repositories.pdb
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business\bin\Release\TaskManager.Repositories.dll.config
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business\bin\Release\EntityFramework.xml
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business\obj\Release\TaskManager.Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business\obj\Release\TaskManager.Business.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business\obj\Release\TaskManager.Business.pdb

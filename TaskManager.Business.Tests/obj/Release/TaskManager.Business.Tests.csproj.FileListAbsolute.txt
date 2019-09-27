@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business.Tests\bin\Release\TaskManager.Business.Tests.dll.config
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business.Tests\bin\Release\TaskManager.Business.Tests.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business.Tests\bin\Release\TaskManager.Business.Tests.pdb
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business.Tests\bin\Release\NBench.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business.Tests\bin\Release\StructureMap.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business.Tests\bin\Release\StructureMap.xml
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business.Tests\obj\Release\TaskManager.Business.Tests.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Business.Tests\obj\Release\TaskManager.Business.Tests.pdb

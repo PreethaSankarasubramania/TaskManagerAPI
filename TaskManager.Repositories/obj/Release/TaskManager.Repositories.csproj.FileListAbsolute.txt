@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\bin\Release\TaskManager.Repositories.dll.config
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\bin\Release\TaskManager.Repositories.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\bin\Release\TaskManager.Repositories.pdb
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\bin\Release\EntityFramework.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\bin\Release\TaskManager.Entities.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\bin\Release\TaskManager.Entities.pdb
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\bin\Release\EntityFramework.xml
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\obj\Release\TaskManager.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\obj\Release\TaskManager.Repositories.Migrations.AddPriorityToTask.resources
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\obj\Release\TaskManager.Repositories.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\obj\Release\TaskManager.Repositories.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Repositories\obj\Release\TaskManager.Repositories.pdb

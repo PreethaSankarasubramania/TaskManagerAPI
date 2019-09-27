@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Entities\bin\Release\TaskManager.Entities.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Entities\bin\Release\TaskManager.Entities.pdb
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Entities\obj\Release\TaskManager.Entities.dll
+C:\Users\Administrator\Documents\GitHub\TaskWebApi\TaskManagerServices\TaskManager.Entities\obj\Release\TaskManager.Entities.pdb

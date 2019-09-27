@@ -1,0 +1,13 @@
+\\Indinvtry1206\shared\IIHT\Refererce\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Business.dll
+\\Indinvtry1206\shared\IIHT\Refererce\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Business.pdb
+\\Indinvtry1206\shared\IIHT\Refererce\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Entities.dll
+\\Indinvtry1206\shared\IIHT\Refererce\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Infrastructure.dll
+\\Indinvtry1206\shared\IIHT\Refererce\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Repositories.dll
+\\Indinvtry1206\shared\IIHT\Refererce\ProjectManagerServices\ProjectManager.Business\bin\Debug\EntityFramework.dll
+\\Indinvtry1206\shared\IIHT\Refererce\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Entities.pdb
+\\Indinvtry1206\shared\IIHT\Refererce\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Infrastructure.pdb
+\\Indinvtry1206\shared\IIHT\Refererce\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Repositories.pdb
+\\Indinvtry1206\shared\IIHT\Refererce\ProjectManagerServices\ProjectManager.Business\bin\Debug\EntityFramework.xml
+\\Indinvtry1206\shared\IIHT\Refererce\ProjectManagerServices\ProjectManager.Business\obj\Debug\ProjectManager.Business.csprojResolveAssemblyReference.cache
+\\Indinvtry1206\shared\IIHT\Refererce\ProjectManagerServices\ProjectManager.Business\obj\Debug\ProjectManager.Business.dll
+\\Indinvtry1206\shared\IIHT\Refererce\ProjectManagerServices\ProjectManager.Business\obj\Debug\ProjectManager.Business.pdb
